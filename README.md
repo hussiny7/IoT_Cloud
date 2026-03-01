@@ -6,6 +6,8 @@
 
 ## 📋 Overview
 
+implemented with Rami Saleh in 2024
+
 An IoT-based environmental monitoring and control system designed for indoor environments such as facilities, factories, or offices. The system monitors temperature, humidity, and gas levels in real-time to ensure environmental safety and comfort, with automated responses through fan and servo motor control.
 
 ### Key Features
